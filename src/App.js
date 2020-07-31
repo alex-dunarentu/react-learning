@@ -6,6 +6,7 @@ import "./App.css";
 class App extends Component {
   constructor() {
     super();
+    console.log('constructor init');
 
     this.state = {
       monsters: [],
