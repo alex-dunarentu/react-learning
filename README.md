@@ -6,19 +6,19 @@ This application is website which presents a number of monsters and allows you t
 
 The app has three presentational components and the logic is inside App.js.
 
-## Card Component
+### Card Component
 
 Presentational component that accepts as props a monster image, name and email. It is responsible for displaying the card container with the monster.
 
-## CardList Component
+### CardList Component
 
 Presentational component that accepts as props the monsters data and displays every monster using the Card component.
 
-## SearchBox Component
+### SearchBox Component
 
 Also a presentational component. It takes as props a placeholder and a method called handleChange from App.js and displays the input box where you can type and search for a monster.
 
-## App.js
+### App.js
 
 It contains a class component with a method for handling the text inside the search box and one for fetching the monsters data from a website. The render method is used for displaying the search box and card list.
 
