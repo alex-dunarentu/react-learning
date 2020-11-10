@@ -1,4 +1,4 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+[This project](https://alex-dunarentu.github.io/react-learning/) was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Monsters Rolodex Application
 
